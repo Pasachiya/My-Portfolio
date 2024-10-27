@@ -53,7 +53,7 @@ export default function Hero() {
           <div className="mb-8 relative">
             <br/>
             <img
-              src="/Public/Sachindu profile photo.png"
+              src="https://github.com/Pasachiya.png"
               alt="Sachindu Dilshan"
               className="w-40 h-40 rounded-full mx-auto border-4 border-[var(--variable)] p-1 hover:scale-110 transition-all duration-300 hover:border-[var(--function)] hover:shadow-lg hover:shadow-[var(--function)]/20"
               style={{ animation: 'float 6s ease-in-out infinite' }}
