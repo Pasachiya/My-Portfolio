@@ -32,7 +32,7 @@ const socialLinks: SocialLink[] = [
 const cvLinks = [
   {
     icon: <FileDown className="w-5 h-5 group-hover:translate-y-1 transition-transform" />,
-    href: "https://drive.google.com/file/d/1j1p1CPAV9cYUQ45T59QdUwNwE7bn_VBw/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1nM2XwnVHIJtf6Yyvu5LPe76T7pScL9pN/view?usp=sharing",
     label: "Download CV",
     className: "bg-[var(--function)] hover:bg-[var(--keyword)] text-black"
   },
